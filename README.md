@@ -27,7 +27,7 @@ In Echo Escape, you find yourself trapped in a dark maze. Your only way to see y
 - **E**: Interact with objects (chests, code puzzles, terminals)
 - **ESC**: Quit the game
 
-## Tech-Noir Features
+## UI/UX Features
 
 - Complete darkness between pings creates a memory challenge for navigation
 - Randomized object placement increases replayability
