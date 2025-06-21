@@ -1,10 +1,10 @@
 # Echo Escape
 
-A tech-noir themed escape room game where you navigate through darkness using sound waves.
+A themed escape room game where you navigate through darkness using sound waves.
 
 ## Game Overview
 
-In Echo Escape, you find yourself trapped in a dark maze. Your only way to see your surroundings is by emitting echo pings that temporarily reveal the environment around you. Your goal is to escape by finding keys, opening chests, discovering terminal codes, and solving puzzles.
+In Echo Escape, you find yourself trapped in a dark maze. Your only way to see your surroundings is by emitting echo pings that temporarily reveal the environment and objects around you. Your goal is to escape by finding keys, opening chests, discovering terminal codes, and solving puzzles.
 
 ## Gameplay Path
 
@@ -35,6 +35,11 @@ In Echo Escape, you find yourself trapped in a dark maze. Your only way to see y
 - Enhanced graphics with textures and animations improve immersion
 - The game follows an escape room structure with puzzles that must be solved in sequence
 
+## Sounds
+
+- No Sound Files Needed!
+- The sounds are generated programmatically using mathematical formulas
+
 ## Running the Game
 
 ```bash
@@ -42,3 +47,8 @@ python3 echo_escape_main.py
 ```
 
 Enjoy the game!
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/41b2ee0d-5fcc-4a6d-8e45-ddfa516c386f)
+![image](https://github.com/user-attachments/assets/f3ca0de4-8948-425d-b03e-013f4c35d0a3)
+![image](https://github.com/user-attachments/assets/08fc4014-bb65-4d39-9d17-1d76c953db52)
