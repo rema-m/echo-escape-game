@@ -1028,7 +1028,7 @@ class GameObject:
 class Game:
     def __init__(self):
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-        pygame.display.set_caption("Echo Escape - Tech-Noir")
+        pygame.display.set_caption("Echo Escape")
         self.clock = pygame.time.Clock()
         self.running = True
         
