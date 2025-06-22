@@ -45,8 +45,10 @@ Enjoy the game!
 
 ## Screenshots
 ![Screenshot 2025-06-21 at 9 55 05 PM](https://github.com/user-attachments/assets/0b0c2710-ac02-4ddc-8184-4c4cc5964a62)
-![Screenshot 2025-06-21 at 9 59 25 PM](https://github.com/user-attachments/assets/d9f96067-ff45-4a81-bda3-65a71b92deef)
-![Screenshot 2025-06-21 at 9 58 55 PM](https://github.com/user-attachments/assets/1f2c03f4-f095-48f9-82ff-2ebe274d1a69)
-![Screenshot 2025-06-22 at 8 28 16 AM](https://github.com/user-attachments/assets/876cd4ee-7142-4055-b9f1-633d1b0f7312)
 
+![Screenshot 2025-06-21 at 9 59 25 PM](https://github.com/user-attachments/assets/d9f96067-ff45-4a81-bda3-65a71b92deef)
+
+![Screenshot 2025-06-21 at 9 58 55 PM](https://github.com/user-attachments/assets/1f2c03f4-f095-48f9-82ff-2ebe274d1a69)
+
+![Screenshot 2025-06-22 at 8 28 16 AM](https://github.com/user-attachments/assets/876cd4ee-7142-4055-b9f1-633d1b0f7312)
 
