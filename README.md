@@ -39,7 +39,7 @@ In Echo Escape, you find yourself trapped in a dark maze. Your only way to see y
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/echo-escape-game.git
+git clone https://github.com/rema-m/echo-escape-game.git
 cd echo-escape-game
 
 # Install dependencies
