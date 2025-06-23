@@ -38,7 +38,15 @@ In Echo Escape, you find yourself trapped in a dark maze. Your only way to see y
 ## Running the Game
 
 ```bash
-python3 echo_escape_main.py
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/echo-escape-game.git
+cd echo-escape-game
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the game
+python3 run_game.py
 ```
 
 Enjoy the game!
